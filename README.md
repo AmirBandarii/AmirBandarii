@@ -1,4 +1,4 @@
-<body>
+<body style="background-color:grey;">
 <img alt="Banner" width="700" height="500" src="https://github.com/AmirBandarii/AmirBandarii/blob/main/fsogir.jpg">
 
 # Hi there 👋, I'm Amir Bandari
