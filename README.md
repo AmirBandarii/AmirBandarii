@@ -1,5 +1,6 @@
 ### Hi there 👋, Amir Bandari
 #### Design and Development
+![Design and Development](https://github.com/AmirBandarii/AmirBandarii/blob/main/fsogir.jpg)
 
 
 I'm Amir, a graduate student in the IT(Information Technology) department at the European University of Armenia. I am interested in all kinds of technology and have experience in different programming languages.
