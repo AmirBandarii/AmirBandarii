@@ -1,4 +1,4 @@
-![Design and Development]<img alt="Banner" src="https://github.com/AmirBandarii/AmirBandarii/blob/main/fsogir.jpg">
+![Design and Development]<img alt="Banner" height="30%" src="https://github.com/AmirBandarii/AmirBandarii/blob/main/fsogir.jpg">
 
 # Hi there 👋, I'm Amir Bandari
 I'm Amir, a graduate student in the IT(Information Technology) department at the European University of Armenia. I am interested in all kinds of technology and have experience in different programming languages.
