@@ -1,3 +1,4 @@
+<body>
 <img alt="Banner" width="700" height="500" src="https://github.com/AmirBandarii/AmirBandarii/blob/main/fsogir.jpg">
 
 # Hi there 👋, I'm Amir Bandari
@@ -11,4 +12,4 @@ I enjoy working with languages and frameworks like React, React Native, and Node
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmirBandarii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amir-bandari-20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amir._bandari/)  
-
+</body>
