@@ -1,15 +1,15 @@
-<div style="background:#33475b">
-<div align="center">
-<img src="https://d117h1jjiq768j.cloudfront.net/images/default-source/blogs/2018/2018-12/developers-vs-low-code-what-they-think-and-why_870x433.jpg?sfvrsn=49bddde3_1" align="center" style="width: 100%" />
-</div>  
-
-*🌐 I’m currently working on web applications*  
-  
-
 ### <div align="center">I'm Amir, a full-stack developer 👨‍💻  since 2020</div>  
   
 
+<div align="right">
+<img src="https://media.istockphoto.com/id/947663966/vector/programming-design-concept.jpg?s=612x612&w=0&k=20&c=7ACckqE60fQkt8yLlFEkcVuhoBZWwwfUhyA2XaOZrGQ=" align="right" height="150" width="150" />
+</div>  
+  
+
 - 🎓I'm a graduate student from the department of IT  
+  
+
+- 🌐 I’m currently working on web applications  
   
 
 -  ⚡ I am developing my skills on MERN stack and related technologies  
@@ -81,4 +81,3 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-</div>
