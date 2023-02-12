@@ -16,6 +16,9 @@
   
 
 - 📶 I'm also working as a network administrator  
+
+
+- ⚡️ Fun fact: NASA still uses programs from the 70s in their spacecraft
   
 
 <br/>  
